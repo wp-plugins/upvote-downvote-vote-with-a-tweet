@@ -13,8 +13,9 @@ Provides convenient access to the vote scores at upvoting.com. Can display the r
 
 This plugin provides access to the vote scores for any question on Upvote / Downvote. Simply create your topic at upvoting.com or link to other users questions and incorporate the simple shortcode in your posts to display the question and scores. You can also display the results using a widget that you can position in any of your theme widget areas.
 
-= Shortcode =
 
+= Shortcode =
+-----
 [udvote voteid="123" format="1"]
 
 The shortcode will be replaced with the image of choice.
@@ -23,16 +24,15 @@ The shortcode will be replaced with the image of choice.
 
 - The format can be one of 3 values.
 
-	- 1	- Leaderboard, 728 x 90, text display of scores.
-	
-	- 2	- Leaderboard, 728 x 90, graphical display of scores.
-	
-	- 3	- Large Rectangle, 336 x 280, text display of scores.
+	* 1	- Leaderboard, 728 x 90, text display of scores.
+	* 2	- Leaderboard, 728 x 90, graphical display of scores.
+	* 3	- Large Rectangle, 336 x 280, text display of scores.
 
-Simply copy and paste the tag into your post where you want the banner to appear.
+- Simply copy and paste the tag into your post where you want the banner to appear.
+
 
 = Widget =
-
+-----
 The widget is installed with the plugin and enables you to add a vote count banner anywhere you can add a widget on your theme. You can assign one or more vote IDs and the widget will display a randomly selected one each time.
 
 Usage is very simple.
@@ -45,16 +45,18 @@ Usage is very simple.
 
 - Hit "Save".
 
-= Post/Page Form =
 
+= Post/Page Form =
+-----
 - On every post page the upvote / downvote form will appear. 
 
 - Just type in the topic id and optionally change the format and position.
 
 - Save/Update the post and the vote results will appear.
 
-= Shortcode generator =
 
+= Shortcode generator =
+-----
 - On every post page the upvote / downvote form will appear.  
 
 - Just type in the topic id and optionally change the format. Position is not used.
@@ -69,7 +71,7 @@ Usage is very simple.
 
 1. Upload the `upvote-downvote-vote-with-a-tweet` directory to the `/wp-content/plugins/` directory
 
-2. Activate the plugin through the \'Plugins\' menu in WordPress
+2. Activate the plugin through the `Plugins` menu in WordPress
 
 3. Use either shortcode or the administrator interface to add banners to your posts.
 
