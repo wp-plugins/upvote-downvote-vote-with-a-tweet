@@ -2,7 +2,7 @@
 Contributors: Adam_WP, quotesuk
 Tags: vote, votes, voting, upvote, downvote, twitter, tweet, adsense
 Requires at least: 3.9
-Tested up to: 3.9.2
+Tested up to: 4.0
 Stable tag: trunk
 License: GPLv2
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
