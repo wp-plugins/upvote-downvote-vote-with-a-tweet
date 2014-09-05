@@ -105,16 +105,16 @@ Select whether or not the div has no width attribute set (default) or has a "wid
 
 **&lt;div&gt; custom style**
 
-Anything you enter in this pox will appear in the style tag of the div. e.g. "padding-bottom:20px;"
+Anything you enter in this box will appear in the style tag of the div. e.g. "padding-bottom:20px;"
 If you exclude the div element then this will have no effect.
 
 **&lt;img&gt; custom style**
 
-Anything you enter in this pox will appear in the style tag of the image. e.g. "padding-bottom:20px;"
+Anything you enter in this box will appear in the style tag of the image. e.g. "padding-bottom:20px;"
 
 **&lt;a href&gt; custom style**
 
-Anything you enter in this pox will appear in the style tag of the link. e.g. "display:block;"
+Anything you enter in this box will appear in the style tag of the link. e.g. "display:block;"
 
 
 **Widget Settings**
@@ -127,16 +127,16 @@ Similar to the global parameter with the same name, you can override the global 
 
 **&lt;div&gt; custom style**
 
-Anything you enter in this pox will appear in the style tag of the div. e.g. "padding-bottom:20px;"
+Anything you enter in this box will appear in the style tag of the div. e.g. "padding-bottom:20px;"
 If you exclude the div element then this will have no effect.
 
 **&lt;img&gt; custom style**
 
-Anything you enter in this pox will appear in the style tag of the image. e.g. "padding-bottom:20px;"
+Anything you enter in this box will appear in the style tag of the image. e.g. "padding-bottom:20px;"
 
 **&lt;a href&gt; custom style**
 
-Anything you enter in this pox will appear in the style tag of the link. e.g. "display:block;"
+Anything you enter in this box will appear in the style tag of the link. e.g. "display:block;"
 
 
 **Advanced Options**
@@ -153,7 +153,7 @@ Applies the style "float:xyz;" to outermost element (either the div or the image
 
 **&lt;div&gt; custom style**
 
-Anything you enter in this pox will appear in the style tag of the div. e.g. "padding-bottom:20px;"
+Anything you enter in this box will appear in the style tag of the div. e.g. "padding-bottom:20px;"
 If you exclude the div element then this will have no effect.
 
 **&lt;img&gt; custom style**
