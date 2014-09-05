@@ -12,9 +12,9 @@ Provides convenient access to the vote scores at upvoting.com. Can display the r
 
 == Description ==
 
-The *Upvote / Downvote* plugin for WordPress enables shortcode, post and widget placement of topic banners. You can choose which topic(s) to display, the banner size and position, and display your topics current scores.
+The **Upvote / Downvote** plugin for WordPress enables shortcode, post and widget placement of topic banners. You can choose which topic(s) to display, the banner size and position, and display your topics current scores.
 
-No registration or login needed. Anyone can *Vote with a Tweet!*
+No registration or login needed. Anyone can **Vote with a Tweet!**
 
 Earn money with our advert sharing using Google Adsense.
 
