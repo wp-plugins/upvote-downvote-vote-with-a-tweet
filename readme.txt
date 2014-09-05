@@ -174,10 +174,15 @@ Anything you enter in this box will appear in the style tag of the image. e.g. "
 Q: What banner sizes are currently available?
 
 A: The following banner sizes are available:
+
 	* Leaderboard, 728 x 90 - with text results
+	
 	* Leaderboard, 728 x 90 - with pie chart results
+	
 	* Large Rectangle, 336 x 280 - with text results
+	
 	* Large Square, 250 x 250 - with text results
+	
 	* Vertical Rectangle, 240 x 400 - with text results
 
 
