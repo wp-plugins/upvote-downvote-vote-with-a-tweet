@@ -22,7 +22,7 @@ Create your own topics on [Upvoting.com](http://upvoting.com "Visit Upvoting.com
 
 For Developer Resources including sample banner sizes and a list of trending topics visit [Upvoting.net](http://upvoting.net "Visit Upvoting.net")
 
-Just add our widget to your sidebar to get going! You only need to change these settings if you need to tweak your layout.
+Just add our widget to your sidebar to get going!
 
 
 = Shortcode =
