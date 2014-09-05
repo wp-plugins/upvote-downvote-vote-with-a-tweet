@@ -79,9 +79,8 @@ The widget is installed with the plugin and enables you to add a vote count bann
 - Remember to clear the "Topic ID" box if you don't want the image appearing twice.
 
 
-= Settings =
 
-**Global Settings** 
+= Global Settings =
 -----
 The main settings page allows you to set global parameters that will affect the display of all banners.
 
@@ -117,7 +116,7 @@ Anything you enter in this box will appear in the style tag of the image. e.g. "
 Anything you enter in this box will appear in the style tag of the link. e.g. "display:block;"
 
 
-**Widget Settings**
+= Widget Settings =
 -----
 These settings only affect the widget. You can override the global settings here if needed.
 
@@ -139,7 +138,7 @@ Anything you enter in this box will appear in the style tag of the image. e.g. "
 Anything you enter in this box will appear in the style tag of the link. e.g. "display:block;"
 
 
-**Advanced Options**
+= Advanced Options =
 -----
 These allow to adjust how specific sizes of banner are displayed. Each section reflects one of the available banner sizes.
 
