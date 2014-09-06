@@ -1,14 +1,14 @@
 === Upvote / Downvote - Vote with a Tweet ===
 Contributors: Adam_WP, quotesuk
-Tags: vote, votes, voting, upvote, downvote, twitter, tweet, adsense
+Tags: vote,votes,voting,upvote,downvote,twitter,tweet,adsense,shortcode,widget,post,posts,page,pages,snippet,plugin
 Requires at least: 3.9
 Tested up to: 4.0
 Stable tag: trunk
 License: GPLv2
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Provides convenient access to the vote scores at upvoting.com. Can display the results in various formats on any post or page.
-
+Provides convenient access to the vote scores at [Upvoting.com](http://upvoting.com "Visit Upvoting.com"). 
+You can display the results in various formats using the widget or on any post page.
 
 == Description ==
 
@@ -100,7 +100,7 @@ Uncheck this box to omit the &lt;div&gt; element from the output, this can also 
 
 **Div width type**
 
-Select whether or not the div has no width attribute set (default) or has a "width:123px" style set that matches the contained image. Useful if you have inherited "floats".
+Select whether or not the div has no width attribute set (default) or has a "width:123px" style that matches the width of the contained image. Useful if you have inherited "floats".
 
 **&lt;div&gt; custom style**
 
@@ -161,71 +161,52 @@ Anything you enter in this box will appear in the style tag of the image. e.g. "
 
 
 == Installation ==
-
 1. Upload the `upvote-downvote-vote-with-a-tweet` directory to the `/wp-content/plugins/` directory
-
 2. Activate the plugin through the `Plugins` menu in WordPress
-
-3. Use either shortcode or the administrator interface to add banners to your posts.
+3. Add banners to the sidebar using the Upvote / Downvote widget
+4. Use either shortcode or the administrator interface to add banners to your posts.
 
 
 == Frequently Asked Questions ==
 
-Q: What banner sizes are currently available?
-
-A: The following banner sizes are available:
-
+= What banner sizes are currently available? =
+The following banner sizes are available:
 	* Leaderboard, 728 x 90 - with text results
-	
 	* Leaderboard, 728 x 90 - with pie chart results
-	
 	* Large Rectangle, 336 x 280 - with text results
-	
 	* Large Square, 250 x 250 - with text results
-	
 	* Vertical Rectangle, 240 x 400 - with text results
 
+= I want a different size banner, can you make it for me? =
+Over time we will be adding all of the standard banner sizes, starting with the most common.
 
-Q: I want a different size banner, can you make it for me?
-
-A: Over time we will be adding all of the standard banner sizes, starting with the most common.
-
-
-Q: What is "upvoting.com"?
-
-A: Upvoting.com is a web site where you can ask any question that has a yes/no or upvote/downvote type response. Anyone can answer that has a twitter account. It is easy and simple to use and any of your users can be directed to the site to vote on your questions. As you can display Google Adsense banners on your question pages you can earn revenue from this. No sign-up or personal details are required.
+= What is "upvoting.com"? =
+[Upvoting.com](http://upvoting.com "Visit Upvoting.com") is a web site where you can ask any question that has a yes/no or upvote/downvote type response. Anyone can answer that has a twitter account. It is easy and simple to use and any of your users can be directed to the site to vote on your questions. As you can display Google Adsense banners on your question pages you can earn revenue from this. No sign-up or personal details are required.
 
 
 == Screenshots ==
-
 1. Include the banners in your posts or the sidebar.
-
 2. Comprehensive settings are available if needed.
-
 3. The 'post' form including shortcode generator.
 
 
 == Changelog ==
-
 = 2014 - 08 - 20 v1.0.0
-- Initial release, shortcode only version.
+* Initial release, shortcode only version.
 
 = 2014 - 08 - 22 v1.1.0
-- Added widget.
+* Added widget.
 
 = 2014 - 08 - 22 v1.1.1
-- Additional documentation.
+* Additional documentation.
 
 = 2014 - 08 - 27 v1.2.0
-- Added admin post page form to include image at top or bottom of posts.
-- Added a shortcode generator on the post page.
-- Tidied up some code to enable easier reuse.
+* Added admin post page form to include image at top or bottom of posts.
+* Added a shortcode generator on the post page.
 
 = 2014 - 08 - 28 v1.2.5
-- Added global settings page for customisation of certain features.
+* Added global settings page for customisation of certain features.
 
 = 2014 - 09 - 05 v1.3.0
-- Added widget and per-banner settings for advanced customisation.
-- Added 2 new banner sizes (250x250) and (240x400).
-
-/End Readme
+* Added widget and per-banner settings for advanced customisation.
+* Added 2 new banner sizes (250x250) and (240x400).
