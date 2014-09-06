@@ -7,7 +7,7 @@ Stable tag: trunk
 License: GPLv2
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Provides convenient access to the vote scores at [Upvoting.com](http://upvoting.com "Visit Upvoting.com"). 
+Provides convenient access to the vote scores at Upvoting.com. 
 You can display the results in various formats using the widget or on any post page.
 
 == Description ==
