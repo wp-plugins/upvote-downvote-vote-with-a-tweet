@@ -191,22 +191,22 @@ Over time we will be adding all of the standard banner sizes, starting with the 
 
 
 == Changelog ==
-= 2014 - 08 - 20 v1.0.0
+= 2014 - 08 - 20 v1.0.0 =
 * Initial release, shortcode only version.
 
-= 2014 - 08 - 22 v1.1.0
+= 2014 - 08 - 22 v1.1.0 =
 * Added widget.
 
-= 2014 - 08 - 22 v1.1.1
+= 2014 - 08 - 22 v1.1.1 =
 * Additional documentation.
 
-= 2014 - 08 - 27 v1.2.0
+= 2014 - 08 - 27 v1.2.0 =
 * Added admin post page form to include image at top or bottom of posts.
 * Added a shortcode generator on the post page.
 
-= 2014 - 08 - 28 v1.2.5
+= 2014 - 08 - 28 v1.2.5 =
 * Added global settings page for customisation of certain features.
 
-= 2014 - 09 - 05 v1.3.0
+= 2014 - 09 - 05 v1.3.0 =
 * Added widget and per-banner settings for advanced customisation.
 * Added 2 new banner sizes (250x250) and (240x400).
